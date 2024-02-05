@@ -1,6 +1,6 @@
 Simple Queue Jobs with Laravel
 
-Set up Docker containers this includes the following services PHP8.1-fpm, Redis and NGINX
+Set up Docker containers this includes the following services PHP, Redis and NGINX
 
 Utilized Redis as the data store to maintain job details
 
